@@ -1,0 +1,15 @@
+{
+  "name": "Yu Su Kreativstudio 记账",
+  "short_name": "Kreativstudio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f2eb",
+  "theme_color": "#78886e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
